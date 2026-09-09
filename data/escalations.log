@@ -1,0 +1,30 @@
+[2026-09-09 23:33:29] [PRIORITY 3/5] [HUMAN_TAKEOVER_REQUEST] Contact: Mark (+1-999-888-7777)
+Message: #human please step in
+Summary: User requested direct communication with a human.
+Action Taken: human_handover | Human takeover activated: True
+------------------------------------------------------------
+[2026-09-09 23:33:49] [PRIORITY 3/5] [HUMAN_TAKEOVER_REQUEST] Contact: Mark (+1-999-888-7777)
+Message: #human please step in
+Summary: User requested direct communication with a human.
+Action Taken: human_handover | Human takeover activated: True
+------------------------------------------------------------
+[2026-09-09 23:34:04] [PRIORITY 5/5] [URGENT] Contact: DevOps Lead (+1-415-555-0188)
+Message: URGENT: Production API is throwing 502 errors and users cannot log in!
+Summary: Message contains high-priority or critical emergency keywords.
+Action Taken: escalate_and_reply | Human takeover activated: False
+------------------------------------------------------------
+[2026-09-09 23:34:05] [PRIORITY 3/5] [HUMAN_TAKEOVER_REQUEST] Contact: Sarah (+1-650-555-0112)
+Message: #human I need to discuss a confidential matter directly with Adarsh.
+Summary: User requested direct communication with a human.
+Action Taken: human_handover | Human takeover activated: True
+------------------------------------------------------------
+[2026-09-09 23:35:26] [PRIORITY 3/5] [HUMAN_TAKEOVER_REQUEST] Contact: Mark (+1-999-888-7777)
+Message: #human please step in
+Summary: User requested direct communication with a human.
+Action Taken: human_handover | Human takeover activated: True
+------------------------------------------------------------
+[2026-09-09 23:39:44] [PRIORITY 5/5] [URGENT] Contact: DevOps Lead (+1-415-555-0188)
+Message: URGENT: Production API is throwing 502 errors and users cannot log in!
+Summary: Message contains high-priority or critical emergency keywords.
+Action Taken: escalate_and_reply | Human takeover activated: False
+------------------------------------------------------------
